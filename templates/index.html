@@ -1,0 +1,48 @@
+{%include 'header.html'%}
+<body class="home-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+    <a href="{{url_for('contact')}}" class="logo d-flex align-items-center">
+        <h1 class="sitename">Hire Me</h1>
+      </a>
+
+     <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="{{ url_for('home') }}" class="active">Home</a></li>
+          <li><a href="{{ url_for('about') }}">About</a></li>
+          <li><a href="{{ url_for('resume') }}">Resume</a></li>
+          <li><a href="{{ url_for('portfolio') }}">Portfolio</a></li>
+          <li><a href="{{ url_for('contact') }}">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+    </div>
+  </header>
+
+</body>
+</html>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+
+      <img src="static/assets/img/moon.jpg" alt="" data-aos="fade-in">
+
+      <div class="container" data-aos="zoom-out" data-aos-delay="100">
+        <h2>Anirudh</h2>
+        <p>I'm <span class="typed" data-typed-items="Innovator, Developer, Freelancer, Analyst">Creative</span><span class="typed-cursor typed-cursor--blink"></span></p>
+        <div class="social-links">
+          <a href="https://x.com/anirudh050504" target="_blank"><i class="bi bi-twitter-x"></i></a>
+                 <a href="https://github.com/evol2402" target="_blank"><i class="bi bi-github"></i></a>
+                 <a href="https://www.linkedin.com/in/anirudh2402" target="_blank"><i class="bi bi-linkedin"></i></a>
+               </div>
+      </div>
+
+    </section><!-- /Hero Section -->
+
+  </main>
+{%include 'footer.html'%}

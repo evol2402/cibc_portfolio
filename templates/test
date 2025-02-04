@@ -1,0 +1,343 @@
+ <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Games">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/breakout.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Breakout Game</h4>
+                  <p>Breakout Game</p>
+                  <a href="static/assets/img/portfolio/breakout.png" title="Breakout" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+              <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Games">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/invaders.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Space Invaders</h4>
+                  <p>Space Invaders</p>
+                  <a href="static/assets/img/portfolio/invaders.png" title="Space Invaders" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Scraper">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/nba.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>NBA Leaderboard Insights</h4>
+                  <p>NBA Leaderboard Insights</p>
+                  <a href="static/assets/img/portfolio/nba.png" title="Web Scraping" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Games">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/hang.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Hangman Game</h4>
+                  <p>Hangman</p>
+                  <a href="static/assets/img/portfolio/hangman.png" title="Hangman" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Games">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/pong.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Pong Game</h4>
+                  <p>Pong Game</p>
+                  <a href="static/assets/img/portfolio/pong.png" title="Pong Game" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-App">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/watermark.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Watermark App</h4>
+                  <p>Watermark App</p>
+                  <a href="static/assets/img/portfolio/watermark.png" title="Watermark App" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-App">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/coffee.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Coffee App</h4>
+                  <p>Coffee App</p>
+                  <a href="static/assets/img/portfolio/coffee.png" title="Coffee seeker App" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-App">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/transit.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Toronto Transit</h4>
+                  <p>Toronto Transit</p>
+                  <a href="static/assets/img/portfolio/transit.png" title="Transit seeker App" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+                        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-App">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/ghost_writer.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Ghost Writer App</h4>
+                  <p>Ghost Writer App</p>
+                  <a href="static/assets/img/portfolio/ghost_writer.png" title="Ghost Writer App" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-App">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/to_do_list.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>To Do List App</h4>
+                  <p>To Do List App</p>
+                  <a href="static/assets/img/portfolio/to_do_list.png" title="To Do List App" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+              <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-App">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/ecommerce.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Ecommerce</h4>
+                  <p>Ecommerce</p>
+                  <a href="static/assets/img/portfolio/ecommerce.png" title="Ecommerce" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-App">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/type.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Type Speed App</h4>
+                  <p>Type Speed App</p>
+                  <a href="static/assets/img/portfolio/type.png" title="Type Speed" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+              <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-App">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/color.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Color Sage</h4>
+                  <p>Color Sage</p>
+                  <a href="static/assets/img/portfolio/color.png" title="Color Picker" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+
+                 <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Games">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/tic.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Tic Tac Toe </h4>
+                  <p>Tic Tac Toe</p>
+                  <a href="static/assets/img/portfolio/tic.png" title="Bale Bale te shawa shawa piyo piyo teh kawa kawa" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Games">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/snake_game.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Snake Game</h4>
+                  <p>Snake Game</p>
+                  <a href="static/assets/img/portfolio/snake_game.png" title="Snake Game" data-gallery="portfolio-gallery-API" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Games">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/t2.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Turtle Game</h4>
+                  <p>Turtle Game</p>
+                  <a href="static/assets/img/portfolio/t2.jpg" title="Turtle Game" data-gallery="portfolio-gallery-Games" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-API">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/stock_api.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Stock API</h4>
+                  <p>Stock API</p>
+                  <a href="static/assets/img/portfolio/stock_api.png" title="Games 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-API">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/audio_book.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>PDF TO AUDIOBOOK</h4>
+                  <p>PDF TO AUDIOBOOK</p>
+                  <a href="static/assets/img/portfolio/audio_book.png" title="PDF TO AUDIOBOOK" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+
+
+
+
+            <!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Data">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/d1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Data Analytics</h4>
+                  <p>Data Analytics</p>
+                  <a href="static/assets/img/portfolio/d1.png" title="bot 2" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+              <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Data">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/satellite.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Data Analytics</h4>
+                  <p>Data Analytics</p>
+                  <a href="static/assets/img/portfolio/satellite.png" title="bot 2" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="https://github.com/evol2402/issoverhead" target="_blank" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-Data">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/d2.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Data Analytics</h4>
+                  <p>Data Analytics</p>
+                  <a href="static/assets/img/portfolio/d2.png" title="API 2" data-gallery="portfolio-gallery-API" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-bot">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/spotify_bot.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Spotify Bot</h4>
+                  <p>Spotify Bot</p>
+                  <a href="static/assets/img/portfolio/spotify_bot.png" title="Games 2" data-gallery="portfolio-gallery-Games" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-bot">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/twitter_bot.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Twitter Bot</h4>
+                  <p>Twitter Bot</p>
+                  <a href="static/assets/img/portfolio/twitter_bot.png" title="Games 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-bot">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/amazon_bot.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Amazon Bot</h4>
+                  <p>Amazon Bot</p>
+                  <a href="static/assets/img/portfolio/amazon_bot.png" title="bot 3" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-API">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/quiz_api.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Quiz API</h4>
+                  <p>Quiz API</p>
+                  <a href="static/assets/img/portfolio/quiz_api.png" title="API 3" data-gallery="portfolio-gallery-API" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-API">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/plane_api.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Plane API</h4>
+                  <p>Plane API</p>
+                  <a href="static/assets/img/portfolio/plane_api.png" title="Games 2" data-gallery="portfolio-gallery-Games" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-bot">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/insta_bot.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Insta Bot</h4>
+                  <p>Insta Bot</p>
+                  <a href="static/assets/img/portfolio/insta_bot.jpg" title="Games 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-bot">
+              <div class="portfolio-content h-100">
+                <img src="static/assets/img/portfolio/dino.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Dino Bot</h4>
+                  <p>Dino Bot</p>
+                  <a href="static/assets/img/portfolio/dino.png" title="Dino Bot" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div>
+            <!-- End Portfolio Item -->

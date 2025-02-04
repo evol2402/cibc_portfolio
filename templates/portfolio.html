@@ -1,0 +1,95 @@
+{%include 'header.html'%}
+
+<body class="portfolio-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+ <a href="{{url_for('contact')}}" class="logo d-flex align-items-center">
+        <h1 class="sitename">Hire Me</h1>
+      </a>
+
+    <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="{{ url_for('home') }}" >Home</a></li>
+          <li><a href="{{ url_for('about') }}">About</a></li>
+          <li><a href="{{ url_for('resume') }}">Resume</a></li>
+          <li><a href="{{ url_for('portfolio') }}" class="active">Portfolio</a></li>
+          <li><a href="{{ url_for('contact') }}">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Page Title -->
+    <div class="page-title" data-aos="fade">
+      <div class="heading">
+        <div class="container">
+          <div class="row d-flex justify-content-center text-center">
+            <div class="col-lg-8">
+              <h1>Portfolio</h1>
+               <p class="mb-0">A showcase of my journey in web development, data analytics, and software solutions. From crafting user-friendly interfaces to analyzing complex data, each project reflects my passion for delivering impactful and innovative results.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <nav class="breadcrumbs">
+        <div class="container">
+          <ol>
+            <li><a href="{{url_for('home')}}">Home</a></li>
+            <li class="current">Portfolio</li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Page Title -->
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio section">
+
+      <div class="container">
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+         <ul class="portfolio-filters isotope-filters aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-bot" >Bot</li>
+            <li data-filter=".filter-API">API</li>
+            <li data-filter=".filter-Games">Games</li>
+            <li data-filter=".filter-Data">Data Analyst</li>
+           <li data-filter=".filter-App"> Web App</li>
+           <li data-filter=".filter-Scraper">Web Scraper</li>
+
+          </ul><!-- End Portfolio Filters -->
+          <!-- Include the script -->
+
+
+          <div class="row gy-4 isotope-container aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+
+       {% for item in portpholio %}
+  <div class="{{ item['div_class'] }}">
+    <div class="portfolio-content h-100">
+      <img src="{{ item['image_src'] }}" class="img-fluid" alt="">
+      <div class="portfolio-info">
+        <h4>{{ item['title'] }}</h4>
+        <p>{{ item['title'] }}</p>  <!-- Use 'description' for paragraph -->
+        <a href="{{ item['image_src'] }}" title="{{ item['description'] }}" data-gallery="portfolio-gallery-bot" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+        <a href={{item['link']}} target="_blank" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+                    </div><!-- End Portfolio Container -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Portfolio Section -->
+
+  </main>
+  {%include 'footer.html'%}

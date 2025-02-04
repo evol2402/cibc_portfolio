@@ -1,0 +1,62 @@
+
+<footer id="footer" class="footer dark-background">
+  <div class="container">
+    <h3 class="sitename">Evol</h3>
+    <p>Driven by a passion for data analysis, Python programming, and solving complex problems, I am pursuing a career in IT to create impactful, data-driven solutions. This portfolio reflects my growth, technical skills, and commitment to continuously learning and adapting in the ever-evolving fields of data analytics and software development.</p>
+    <div class="social-links d-flex justify-content-center">
+      <a href="https://x.com/anirudh050504" target="_blank"><i class="bi bi-twitter-x"></i></a>
+      <a href="https://github.com/evol2402" target="_blank"><i class="bi bi-github"></i></a>
+      <a href="https://www.linkedin.com/in/anirudh2402" target="_blank"><i class="bi bi-linkedin"></i></a>
+    </div>
+    <div class="container">
+      <div class="copyright">
+        <span>&copy; {{ current_year }} Evol. All Rights Reserved.</span>
+      </div>
+      <button id="toggle-credits" class="toggle-credits">Credits</button>
+        <div>
+      <div class="credits" id="credits-section">
+            <p>Designed by <strong>Anirudh</strong>, by adapting the <a href="https://bootstrapmade.com/personal-free-resume-bootstrap-template/" target="_blank" rel="noopener">Bootstrap Template</a> by BootstrapMade.com.</p>
+        </div>
+    </div>
+    </div>
+  </div>
+</footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+<!-- Vendor JS Files -->
+<script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/php-email-form/validate.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/aos/aos.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/typed.js/typed.umd.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/purecounter/purecounter_vanilla.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/waypoints/noframework.waypoints.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/swiper/swiper-bundle.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/glightbox/js/glightbox.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/imagesloaded/imagesloaded.pkgd.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
+
+
+<!-- Main JS File -->
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const toggleButton = document.getElementById('toggle-credits');
+    const creditsSection = document.getElementById('credits-section');
+
+    toggleButton.addEventListener('click', function () {
+      creditsSection.classList.toggle('show');
+      // Update button text
+      toggleButton.textContent = creditsSection.classList.contains('show')
+        ? 'Hide Credits'
+        : 'Credits';
+    });
+  });
+</script>
+
+</body>
+</html>
